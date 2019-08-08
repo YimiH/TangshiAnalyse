@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.Yimm</groupId>
+    <artifactId>Tangshi-Analyse</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <name>Tangshi-Analyse</name>
+
+    <!--描述-->
+    <description>
+        简易版唐诗分析工具，唐诗你的生活
+    </description>
+
+    <!--开发者信息-->
+    <developers>
+        <developer>
+            <id>007</id>
+            <name>Yimm</name>
+            <email>2772644751@qq.com</email>
+            <roles>
+                <role>
+                    creator
+                </role>
+                <role>
+                    developer
+                </role>
+            </roles>
+        </developer>
+    </developers>
+
+
+
+    <!--基本属性-->
+    <properties>
+        <encoding>UTF-8</encoding>
+        <java.version>1.8</java.version>
+        <meaven.compile.source>${java.version}</meaven.compile.source>
+        <meaven.compile.target>${java.version}</meaven.compile.target>
+    </properties>
+
+<!--https://search.meaven.org-->
+    <!--配置依赖-->
+    <dependencies>
+        <!--配置数据库驱动-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.47</version>
+        </dependency>
+
+        <!--配置数据库链接池-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.1.13</version>
+        </dependency>
+
+        <!--中文文本分词-->
+        <dependency>
+            <groupId>org.ansj</groupId>
+            <artifactId>ansj_seg</artifactId>
+            <version>5.1.1</version>
+        </dependency>
+
+        <!--基于jetty嵌入式Java Web容器开发的web应用框架-->
+        <dependency>
+            <groupId>com.sparkjava</groupId>
+            <artifactId>spark-core</artifactId>
+            <version>2.3</version>
+        </dependency>
+
+        <!--字符串转对象的工具-->
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.5</version>
+        </dependency>
+
+        <!--网页解析工具-->
+        <dependency>
+            <groupId>net.sourceforge.htmlunit</groupId>
+            <artifactId>htmlunit</artifactId>
+            <version>2.18</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.eclipse.jetty</groupId>
+                    <artifactId>jetty-util</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+
+        <!--编译时自动生成代码的库-->
+        <!--1.idea安装lombok插件 2.设置中启用注解处理器-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.22</version>
+            <!--仅在编译时使用，打包时不需要-->
+            <scope>provided</scope>
+        </dependency>
+
+
+    </dependencies>
+
+
+    <build>
+        <plugins>
+            <!--配置打包插件，设置主类和classpath-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib</classpathPrefix>
+                            <mainClass>com.Yimm.TangShiAnalyse.TangShiAnalyseApplication</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+
+
+
+        <!--配置依赖插件，复制程序依赖的jar包-->
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>3.1.1</version>
+                <executions>
+                    <execution>
+                        <id>copy-dependency</id>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <!--挂载在maven阶段-->
+                        <phase>package</phase>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>

@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c1b0099-8fc5-4f85-8b34-6f8b00447a8f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tangshi: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="memo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tangshi: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="poetry_info: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="ef180ed0-9cee-483c-ab7a-38b1fe5a709d" />
+    </checked>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TangshiAnalyse" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="Blue" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/TangShiAnalyseApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" column="56" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/AnalyzeDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/impl/AnalyzeDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="79" column="36" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/entity/PoetryInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/AuthorCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/WordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/AnalyzeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/impl/AnalyzeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://ef180ed0-9cee-483c-ab7a-38b1fe5a709d/schema/tangshi/table/poetry_info">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="54faa536-572b-4e0f-a8e6-a22c4ea58a6f">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/Yimm/crawier/common</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/common/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/common/Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/parse/DataPageParse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/PipeLine/ConsolePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/Crawier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/crawier/parse/DocumentParse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/analyse/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/PipeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/TangShiAnalyse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/common/Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/common/PoetryInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/common/DataSet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ef180ed0-9cee-483c-ab7a-38b1fe5a709d/console.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yimm/tangshi/TestHtmlUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/AuthorCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/AnalyzeDao.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ef180ed0-9cee-483c-ab7a-38b1fe5a709d/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/AnalyzeService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/assets/js/echarts-gl.min.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/ConfigPrpperties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yimm/tangshi/test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yimm/tangshi/Singleton.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/parse/Parse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/Pipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/ConsolePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/entity/PoetryInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/impl/AnalyzeDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/WebController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/assets/js/api.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/Crawier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/DatabasePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/parse/DataPageParse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/ConfigProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/impl/AnalyzeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/TangShiAnalyseApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/parse/DocumentParse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/path/to/local/repo" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tangshi-Analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tangshi-Analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tangshi-Analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tangshi-Analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TangshiAnalyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TangshiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Yimm" type="462c0819:PsiDirectoryNode" />
+              <item name="TangShiAnalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553315847760" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/Yimm/analyse" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TangShiAnalyseApplication">
+    <configuration name="AnalyzeServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Yimm.TangShiAnalyse.analyse.service.impl.AnalyzeServiceImpl" />
+      <module name="Tangshi-Analyse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Yimm.TangShiAnalyse.analyse.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Yimm.TangShiAnalyse.config.ConfigProperties" />
+      <module name="Tangshi-Analyse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Yimm.TangShiAnalyse.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crawier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Yimm.TangShiAnalyse.crawier.Crawier" />
+      <module name="Tangshi-Analyse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Yimm.TangShiAnalyse.crawier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yimm.tangshi.Singleton" />
+      <module name="Tangshi-Analyse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yimm.tangshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TangShiAnalyseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Yimm.TangShiAnalyse.TangShiAnalyseApplication" />
+      <module name="Tangshi-Analyse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Yimm.TangShiAnalyse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AnalyzeServiceImpl" />
+      <item itemvalue="Application.ConfigProperties" />
+      <item itemvalue="Application.Crawier" />
+      <item itemvalue="Application.Singleton" />
+      <item itemvalue="Application.TangShiAnalyseApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TangShiAnalyseApplication" />
+        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.AnalyzeServiceImpl" />
+        <item itemvalue="Application.ConfigProperties" />
+        <item itemvalue="Application.Crawier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c1b0099-8fc5-4f85-8b34-6f8b00447a8f" name="Default Changelist" comment="" />
+      <created>1552207024625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552207024625</updated>
+      <workItem from="1552207028346" duration="3495000" />
+      <workItem from="1552211903850" duration="2842000" />
+      <workItem from="1552222099824" duration="2000" />
+      <workItem from="1552783643504" duration="384000" />
+      <workItem from="1552785515445" duration="757000" />
+      <workItem from="1552786774338" duration="9497000" />
+      <workItem from="1553300425729" duration="7536000" />
+      <workItem from="1553318769544" duration="2000" />
+      <workItem from="1553327507037" duration="1356000" />
+      <workItem from="1560401983729" duration="3946000" />
+      <workItem from="1560475931077" duration="2822000" />
+      <workItem from="1560480035643" duration="5289000" />
+      <workItem from="1564128905977" duration="39929000" />
+      <workItem from="1564398908712" duration="1039000" />
+      <workItem from="1564451376813" duration="13882000" />
+      <workItem from="1564537315768" duration="1322000" />
+      <workItem from="1564538839323" duration="2546000" />
+      <workItem from="1564543989423" duration="1527000" />
+      <workItem from="1564548589680" duration="20082000" />
+      <workItem from="1564662950981" duration="262000" />
+      <workItem from="1564706771515" duration="1829000" />
+      <workItem from="1565078218644" duration="449000" />
+      <workItem from="1565264191672" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121491000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49416342" visible="true" weight="0.15522175" />
+      <window_info id="Structure" order="1" sideWeight="0.50583655" side_tool="true" visible="true" weight="0.15522175" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50068027" side_tool="true" weight="0.14377682" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.30111524" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4985694" visible="true" weight="0.3630731" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49928468" weight="0.3630731" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50143063" side_tool="true" weight="0.3197026" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3283767" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.22389127" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" visible="true" weight="0.12660944" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931973" visible="true" weight="0.13447782" />
+      <window_info id="Structure" order="1" sideWeight="0.50096714" side_tool="true" weight="0.14377682" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50068027" side_tool="true" weight="0.14377682" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.30111524" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.30359355" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3630731" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3283767" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.22389127" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.26108727" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="configPrpperties" language="JAVA" />
+        <watch expression="objectHashMap" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>objectHashMap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>configPrpperties</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>co</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/assets/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="127" column="25" lean-forward="true" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse.dao.AnalyzeDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse.dao.AnalyzeDao</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.common.DataSet</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.common.Page</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="480.0" y="357.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.Yimm.TangShiAnalyse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-162.0" y="-123.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Javacode/TangshiAnalyse/src/main/java/com/Yimm/TangShiAnalyse/analyse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="596.0" y="377.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.web</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.config</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.TangShiAnalyseApplication</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="217.0" y="158.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.service</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.entity</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.model</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.dao</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="90.0" y="122.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse.dao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse.dao</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.dao.AnalyzeDao</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.dao.impl</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="52.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse.entity">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse.entity</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.entity.PoetryInfo</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="73.0" y="14.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse.model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse.model</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.model.AuthorCount</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.model.WordCount</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="78.0" y="49.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.analyse.service">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.analyse.service</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.service.impl</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.analyse.service.AnalyzeService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="93.0" y="52.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.config">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.config</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.config.ConfigProperties</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.config.ObjectFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="103.0" y="50.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.crawier">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.crawier</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.Crawier</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.parse</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.common</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.PipeLine</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="95.0" y="121.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.crawier.common">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.crawier.common</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.common.DataSet</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.common.Page</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="58.0" y="50.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.crawier.parse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.crawier.parse</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.parse.DocumentParse</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.parse.DataPageParse</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.parse.Parse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="186.0" y="52.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.web">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.web</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.web.WebController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="14.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.crawier.PipeLine">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.crawier.PipeLine</OriginalElement>
+          <nodes>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.PipeLine.ConsolePipeline</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.PipeLine.DatabasePipeline</node>
+            <node x="" y="">com.Yimm.TangShiAnalyse.crawier.PipeLine.Pipeline</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="211.0" y="52.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.Yimm.TangShiAnalyse.TangShiAnalyseApplication">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.Yimm.TangShiAnalyse.TangShiAnalyseApplication</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.Yimm.TangShiAnalyse.TangShiAnalyseApplication</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-208.0" y="24.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="332" column="6" lean-forward="true" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
+          <folding>
+            <element signature="e#8938#8939#0" expanded="true" />
+            <element signature="e#8965#8966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///path/to/local/repo/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/design.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/Crawier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/ConsolePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/DatabasePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/PipeLine/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/parse/DocumentParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/parse/DataPageParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/common/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/crawier/common/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/ConfigProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="126" column="23" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/config/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/AnalyzeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/dao/impl/AnalyzeDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="79" column="36" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/entity/PoetryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/AuthorCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/model/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/AnalyzeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/analyse/service/impl/AnalyzeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ef180ed0-9cee-483c-ab7a-38b1fe5a709d/schema/tangshi/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="54faa536-572b-4e0f-a8e6-a22c4ea58a6f">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Yimm/TangShiAnalyse/TangShiAnalyseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Tangshi-Analyse</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
